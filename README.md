@@ -2,7 +2,7 @@
 
 #######################################################################################
 
-Submission 1: 
+[Submission 1](submission 1/): 
 
 Video Presentation Link: [https://youtu.be/u4Y7ThIbw3o](https://youtu.be/u4Y7ThIbw3o)
 
