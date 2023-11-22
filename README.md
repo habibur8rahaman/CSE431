@@ -2,7 +2,7 @@
 
 #######################################################################################
 
-[Submission 1](CSE431/submission 1/): 
+[Submission 1](https://github.com/habibur8rahaman/CSE431/tree/main/submission%201): 
 
 Video Presentation Link: [https://youtu.be/u4Y7ThIbw3o](https://youtu.be/u4Y7ThIbw3o)
 
