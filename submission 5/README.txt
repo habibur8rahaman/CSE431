@@ -5,7 +5,7 @@ Link to unlisted YouTube video:
 
 
 Public link to the slide (Anyone on the internet can view without login):
-
+https://docs.google.com/presentation/d/1tFDw3-Sa8tiIMusqDQldkBJbgAPaImvAeHYe9BAEp6w/edit?usp=sharing
 
 Project title:
 Exploring Deep Learning Models for Sentiment Classification in Customer Reviews
